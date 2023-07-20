@@ -10,10 +10,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_x1hewh5",
-        "template_2ki8hlo",
+        "service_5t0rnto",
+        "template_xe70hzm",
         form.current,
-        "vxDcl4UI2jbOQBn6f"
+        "FBZeYulGjLOOLuXwm"
       )
       e.target.reset()
   };
