@@ -42,10 +42,10 @@ const Tools = () => {
           </div>
 
           <div className="skills__data">
-            <i class="bx "></i>
+            <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name"></h3>
+              <h3 className="skills__name">cmd</h3>
             </div>
           </div>
 
