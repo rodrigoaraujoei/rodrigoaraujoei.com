@@ -10,30 +10,40 @@ export const projectsData = [
     image: Vitaly,
     title: "Vitaly",
     category: "Full Stack",
+    repo: "",
+    live: "bawse-game.vercel.app"
   },
   {
     id: 2,
     image: Taxiaraujo,
     title: "Taxiaraujo.com",
     category: "Landing Page",
+    repo: "https://github.com/rodrigoaraujoei/taxiaraujo",
+    live: "https://taxiaraujo.com/"
   },
   {
     id: 3,
     image: OtiliaeRosa,
     title: "OtiliaeRosa Lavandaria",
     category: "Landing Page",
+    repo: "https://github.com/rodrigoaraujoei/OtiliaeRosa",
+    live: "bawse-game.vercel.app"
   },
   {
     id: 4,
     image: Bawse,
     title: "bawse-game.vercel.app",
     category: "Other",
+    repo: "https://github.com/rodrigoaraujoei/BawseGame",
+    live: "bawse-game.vercel.app"
   },
   {
     id: 5,
     image: Airbnb,
     title: "next-example-airbnb.vercel.app",
     category: "Full Stack",
+    repo: "https://github.com/rodrigoaraujoei/airbnb",
+    live: "https://next-example-airbnb.vercel.app/"
   }
 ];
 
