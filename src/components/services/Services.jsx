@@ -257,19 +257,19 @@ const Services = () => {
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">
                   Google Ads Consultant
                   </p>
                 </li>
 
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">SEO and Google Ads Analyst</p>
                 </li>
 
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">
                   Digital Marketing Manager
                   </p>
