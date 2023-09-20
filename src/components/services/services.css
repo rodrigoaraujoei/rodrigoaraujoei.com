@@ -1,5 +1,5 @@
 .services__container {
-    grid-template-columns: repeat(3, 270px);
+    grid-template-columns: repeat(4, 270px);
     justify-content: center;
     column-gap: 1.8rem;
 }
@@ -108,7 +108,8 @@
 
 .services__modal-icon {
     color: var(--title-color);
-    font-size: 1.1rem;
+    font-size:1.1rem;
+    padding-top: 5px;
 }
 
 .services__modal-info {

@@ -50,6 +50,8 @@
     font-size: var(--tiny-font-size);
 }
 
+
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
@@ -80,4 +82,5 @@
         font-size: var(--small-font-size);
     }
   }
+  
   

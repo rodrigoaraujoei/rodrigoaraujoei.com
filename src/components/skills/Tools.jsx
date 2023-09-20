@@ -1,4 +1,5 @@
 import React from "react";
+import { Icon } from '@iconify/react';
 
 const Tools = () => {
   return (
@@ -8,44 +9,44 @@ const Tools = () => {
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
 
             <div>
-              <h3 className="skills__name">Git</h3>
+              <h3 className="skills__name" style={{margin:"7px"}}>Git</h3>
             </div>
           </div>
 
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
 
             <div>
-              <h3 className="skills__name">Postman</h3>
+              <h3 className="skills__name" style={{margin:"7px"}}>Postman</h3>
             </div>
           </div>
 
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
 
             <div>
-              <h3 className="skills__name">XAMPP</h3>
+              <h3 className="skills__name" style={{margin:"7px"}}>XAMPP</h3>
             </div>
           </div>
         </div>
 
         <div className="skills__group">
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
 
             <div>
-              <h3 className="skills__name">phpMyAdmin</h3>
+              <h3 className="skills__name" style={{margin:"7px"}}>phpMyAdmin</h3>
             </div>
           </div>
 
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
 
             <div>
-              <h3 className="skills__name">cmd</h3>
+              <h3 className="skills__name" style={{margin:"7px"}}>cmd</h3>
             </div>
           </div>
 
