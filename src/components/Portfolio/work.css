@@ -54,6 +54,22 @@
   column-gap: 0.25rem;
 }
 
+.div1{
+  margin: 5px;
+}
+
+.div2{
+  margin: 10px;
+}
+
+.repo{
+  color: blue;
+}
+
+.live{
+  color: red;
+}
+
 .work__button-icon {
   font-size: 1rem;
   transition: 0.4s;
