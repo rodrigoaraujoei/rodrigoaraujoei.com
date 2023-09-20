@@ -170,7 +170,7 @@ const Services = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-edit services__icon"></i>
+            <i className="uil uil-database services__icon"></i>
             <h3 className="services__title">
               Database
             </h3>
@@ -226,7 +226,7 @@ const Services = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-edit services__icon"></i>
+            <i className="uil uil-graph-bar services__icon"></i>
             <h3 className="services__title">
             Digital Marketer
             </h3>
