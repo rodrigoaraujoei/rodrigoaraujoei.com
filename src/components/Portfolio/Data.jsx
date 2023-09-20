@@ -16,7 +16,7 @@ export const projectsData = [
   {
     id: 2,
     image: Taxiaraujo,
-    title: "Taxiaraujo.com",
+    title: "Taxiaraujo",
     category: "Landing Page",
     repo: "https://github.com/rodrigoaraujoei/taxiaraujo",
     live: "https://taxiaraujo.com/"
@@ -27,12 +27,12 @@ export const projectsData = [
     title: "OtiliaeRosa Lavandaria",
     category: "Landing Page",
     repo: "https://github.com/rodrigoaraujoei/OtiliaeRosa",
-    live: "bawse-game.vercel.app"
+    live: ""
   },
   {
     id: 4,
     image: Bawse,
-    title: "bawse-game.vercel.app",
+    title: "Bawse",
     category: "Other",
     repo: "https://github.com/rodrigoaraujoei/BawseGame",
     live: "bawse-game.vercel.app"
@@ -40,7 +40,7 @@ export const projectsData = [
   {
     id: 5,
     image: Airbnb,
-    title: "next-example-airbnb.vercel.app",
+    title: "Airbnb clone",
     category: "Full Stack",
     repo: "https://github.com/rodrigoaraujoei/airbnb",
     live: "https://next-example-airbnb.vercel.app/"
