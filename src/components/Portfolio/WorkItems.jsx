@@ -25,7 +25,7 @@ const WorkItems = ({ item }) => {
         className="work__button "
       >
        
-       <i className="services__modal-icon"><Icon icon="uil-arrow" /></i> Code
+       <i className="services__modal-icon"><Icon icon="uil-arrow" /></i> GitHub
       </a>
 
       
