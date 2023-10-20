@@ -1,6 +1,6 @@
 import Vitaly from "../../assets/vitaly.png";
 import Taxiaraujo from "../../assets/taxiaraujo.png";
-import OtiliaeRosa from "../../assets/otiliaerosa.png";
+import OeR from "../../assets/oer.png";
 import Bawse from "../../assets/bawse.png";
 import Airbnb from "../../assets/airbnb.png";
 
@@ -23,7 +23,7 @@ export const projectsData = [
   },
   {
     id: 3,
-    image: OtiliaeRosa,
+    image: OeR,
     title: "OtiliaeRosa Lavandaria",
     category: "Landing Page",
     repo: "https://github.com/rodrigoaraujoei/OtiliaeRosa",
