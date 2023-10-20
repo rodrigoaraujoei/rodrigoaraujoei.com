@@ -11,7 +11,7 @@ export const projectsData = [
     title: "Vitaly",
     category: "Full Stack",
     repo: "",
-    live: "bawse-game.vercel.app"
+    live: ""
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export const projectsData = [
     title: "OtiliaeRosa Lavandaria",
     category: "Landing Page",
     repo: "https://github.com/rodrigoaraujoei/OtiliaeRosa",
-    live: ""
+    live: "https://otiliaerosa.vercel.app/"
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ export const projectsData = [
     title: "Bawse",
     category: "Other",
     repo: "https://github.com/rodrigoaraujoei/BawseGame",
-    live: "bawse-game.vercel.app"
+    live: "https://bawse-game.vercel.app/"
   },
   {
     id: 5,
