@@ -75,10 +75,10 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__title">High School Santa Maria Maior</h3>
                 <span className="qualification__subtitle">
-                Portugal - High School
+                  Portugal - High School
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2015 - 2027
+                  <i className="uil uil-calendar-alt"></i> 2015 - 2017
                 </div>
               </div>
             </div>         
@@ -91,15 +91,10 @@ const Qualification = () => {
                 : "qualification__content"
             }
           >
-            
-
-
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Freelancer</h3>
-                <span className="qualification__subtitle">
-                -
-                </span>
+                <span className="qualification__subtitle"> -</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2023 - Current
                 </div>
@@ -109,7 +104,6 @@ const Qualification = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-              
             </div>
 
             <div className="qualification__data">
@@ -117,22 +111,42 @@ const Qualification = () => {
 
               <div>
                 <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
               </div>
+
+               <div>
+                <h3 className="qualification__title">Frontend Developer</h3>
+                <span className="qualification__subtitle">
+                  Horus Software
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> 01/2024 - 03/2024
+                </div>
+              </div> 
+            </div>
+
+            {/* New Experience */}
+            <div className="qualification__data">
+              
+             
 
               <div>
                 <h3 className="qualification__title">Trainee Programmer</h3>
                 <span className="qualification__subtitle">
-                Portugal - InforViana
+                  Portugal - InforViana
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2015-2017
+                  <i className="uil uil-calendar-alt"></i> 2015 - 2017
                 </div>
               </div>
-            </div>     
 
+              <div>
+                <span className="qualification__rounder"></span>
+              </div>
 
-            
-
+              
+              
+            </div>
           </div>
         </div>
       </div>
