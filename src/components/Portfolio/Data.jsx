@@ -56,16 +56,16 @@ export const projectsData = [
     image: Sumai,
     title: "AI Summary",
     category: "Full Stack",
-    repo: "https://github.com/rodrigoaraujoei/airbnb",
-    live: "https://next-example-airbnb.vercel.app/"
+    repo: "",
+    live: ""
   },
   {
     id: 7,
     image: CarShow,
     title: "Car Showcase",
     category: "Full Stack",
-    repo: "https://github.com/rodrigoaraujoei/airbnb",
-    live: "https://next-example-airbnb.vercel.app/"
+    repo: "",
+    live: ""
   },
   {
     id: 8,
