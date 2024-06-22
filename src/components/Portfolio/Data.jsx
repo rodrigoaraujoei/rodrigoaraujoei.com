@@ -23,7 +23,7 @@ export const projectsData = [
     id: 2,
     image: Taxiaraujo,
     title: "Taxiaraujo",
-    category: "Landing Page",
+    category: "Frontend",
     repo: "https://github.com/rodrigoaraujoei/taxiaraujo",
     live: "https://taxiaraujo.com/"
   },
@@ -31,7 +31,7 @@ export const projectsData = [
     id: 3,
     image: OeR,
     title: "OtiliaeRosa Lavandaria",
-    category: "Landing Page",
+    category: "Frontend",
     repo: "https://github.com/rodrigoaraujoei/OtiliaeRosa",
     live: "https://otiliaerosa.vercel.app/"
   },
@@ -55,7 +55,7 @@ export const projectsData = [
     id: 6,
     image: Sumai,
     title: "AI Summary",
-    category: "Full Stack",
+    category: "Frontend",
     repo: "",
     live: ""
   },
@@ -63,7 +63,7 @@ export const projectsData = [
     id: 7,
     image: CarShow,
     title: "Car Showcase",
-    category: "Full Stack",
+    category: "Frontend",
     repo: "",
     live: ""
   },
@@ -95,7 +95,7 @@ export const projectsData = [
     id: 11,
     image: marries,
     title: "MARRIE SOUSA",
-    category: "Landing Page",
+    category: "Frontend",
     repo: "https://github.com/rodrigoaraujoei/marriesousa",
     live: "https://marriesousa.vercel.app/"
   }
@@ -110,7 +110,7 @@ export const projectsNav = [
     name: "Full Stack",
   },
   {
-    name: "Landing Page",
+    name: "Frontend",
   },
   {
     name: "Other",
