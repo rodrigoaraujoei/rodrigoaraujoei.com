@@ -37,7 +37,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.instagram.com/roderichbenz"
+            href="https://www.instagram.com/6ambenz"
             className="footer__social-link"
             target="_blank"
           >
