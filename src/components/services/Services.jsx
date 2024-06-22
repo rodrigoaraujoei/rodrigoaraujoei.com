@@ -134,31 +134,31 @@ const Services = () => {
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">
                   Building code
                   </p>
                 </li>
 
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">Troubleshooting web applications</p>
                 </li>
 
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">Debugging web applications</p>
                 </li>
 
                 <li className="services__modal-service">
-                 <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                 <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">
                   Database management 
                   </p>
                 </li>
 
                 <li className="services__modal-service">
-                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i><i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
+                  <i className="services__modal-icon"><Icon icon="ph:seal-check-fill" /></i>
                   <p className="services__modal-info">
                   Framework utilization 
                   </p>
