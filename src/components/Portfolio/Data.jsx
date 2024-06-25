@@ -9,6 +9,7 @@ import Fg from "../../assets/fightingame.png";
 import Pkt from "../../assets/pokemontype.png";
 import Td from "../../assets/towerdef.png";
 import marries from "../../assets/marriesousa.png";
+import casecobra from "../../assets/casecobra.png";
 
 export const projectsData = [
   {
@@ -98,6 +99,14 @@ export const projectsData = [
     category: "Frontend",
     repo: "https://github.com/rodrigoaraujoei/marriesousa",
     live: "https://marriesousa.vercel.app/"
+  },
+  {
+    id: 12,
+    image: casecobra,
+    title: "Case Cobra",
+    category: "Full Stack",
+    repo: "",
+    live: ""
   }
 ];
 
