@@ -63,10 +63,10 @@ export const projectsData = [
   {
     id: 7,
     image: CarShow,
-    title: "Car Showcase",
+    title: "RSCar Hub",
     category: "Frontend",
     repo: "",
-    live: ""
+    live: "https://rscarhub.netlify.app/"
   },
   {
     id: 8,
