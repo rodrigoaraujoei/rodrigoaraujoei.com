@@ -58,7 +58,7 @@ export const projectsData = [
     title: "AI Summary",
     category: "Frontend",
     repo: "",
-    live: ""
+    live: "https://aisummarizer.vercel.app/"
   },
   {
     id: 7,
